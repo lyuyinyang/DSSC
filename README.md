@@ -51,7 +51,6 @@ Before data exchange is permitted, the Data Space requires:
 - Trusted participant verification
 - Policy-controlled data exchange
 
----
 
 ## Actors
 
@@ -61,7 +60,6 @@ Before data exchange is permitted, the Data Space requires:
 | City Analytics Lab | Discovers and consumes data products |
 | Data Space Governance Framework | Defines trust, semantic, and compliance requirements |
 
----
 
 ## Data Product
 
@@ -76,7 +74,6 @@ Before data exchange is permitted, the Data Space requires:
 | Coverage | Shenzhen demo district |
 | Period | 2026-05-01 to 2026-05-02 |
 
----
 
 # Data Space Architecture
 
@@ -157,7 +154,6 @@ The research focuses on:
 - Policy-controlled access
 - Interoperable connector architecture
 
----
 
 # What is a Data Space Connector?
 
@@ -174,7 +170,6 @@ Unlike a traditional API gateway, a connector does not only expose data endpoint
 
 Therefore, the connector acts as the operational exchange layer of a Data Space, working together with semantic services, trust frameworks, and validation mechanisms to enable interoperable and trustworthy data sharing.
 
----
 
 # FIWARE Data Space Connector
 
@@ -217,7 +212,6 @@ Detailed deployment notes:
 A_fiware_deployment_notes.md
 ```
 
----
 
 # TNO Trusted Secusre Gateway (TSG)
 
@@ -237,7 +231,6 @@ Detailed comparison:
 A_tno_tsg_comparison.md
 ```
 
----
 
 # Group A Workflow
 
@@ -252,7 +245,6 @@ Within the unified energy scenario, the connector layer enables governed exchang
 | Trusted participant information | Group B |
 | Dataset API description | Data Provider |
 
----
 
 # Data Exchange Demonstration
 
@@ -277,7 +269,6 @@ Detailed demonstration workflow:
 A_data_exchange_demo.md
 ```
 
----
 ## Process
 
 ### 1. Package Dataset as Data Offering
@@ -292,7 +283,6 @@ The Building Energy Consumption Dataset is transformed into a Data Space Data Of
 
 The Data Offering represents the dataset as a governed and discoverable digital asset within the Data Space.
 
----
 
 ### 2. Publish Metadata
 
@@ -305,7 +295,6 @@ Consumers can:
 - Review access conditions
 - Identify applicable usage policies
 
----
 
 ### 3. Consumer Discovery and Access Request
 
@@ -318,7 +307,6 @@ The connector verifies:
 - Usage policies
 - Contract requirements
 
----
 
 ### 4. Contract Negotiation and Governed Data Transfer
 
@@ -357,7 +345,6 @@ Policy --> Transfer
 Transfer --> Consumer
 ```
 
----
 
 # Deliverables
 
@@ -392,7 +379,6 @@ DSSC-Toolbox/
 └── references.md
 ```
 
----
 
 # Key Findings
 
@@ -429,7 +415,6 @@ Enables governed data sharing based on:
 - Contractual rules
 - Data governance policies
 
----
 
 # Limitations
 
@@ -467,7 +452,6 @@ Real-world deployment requires:
 - Monitoring and maintenance
 - Operational support
 
----
 
 # Future Work
 
@@ -480,7 +464,6 @@ Potential future improvements include:
 - Evaluation of additional connector implementations
 - Performance and scalability testing
 
----
 
 # Conclusion
 
@@ -509,7 +492,6 @@ while maintaining:
 
 Through the Building Energy Consumption scenario, this project illustrates how technologies such as the **FIWARE Data Space Connector** and **TNO Trusted Secure Gateway (TSG)** support the development of a trustworthy and interoperable energy data-sharing ecosystem.
 
----
 
 # References
 
