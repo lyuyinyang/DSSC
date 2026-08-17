@@ -32,7 +32,6 @@ The objective of this project is to understand how these components
 cooperate and how they can support a complete governed data-sharing
 workflow.
 
----
 
 # Research Scenario
 
