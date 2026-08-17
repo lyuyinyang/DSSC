@@ -356,6 +356,7 @@ Group A provides the following technical documentation:
 | `A_fiware_deployment_notes.md` | Deployment considerations and implementation notes                 |
 | `A_tno_tsg_comparison.md`      | Comparison between FIWARE Connector and TNO Trusted Secure Gateway |
 | `A_data_exchange_demo.md`      | Demonstration of governed data exchange workflow                   |
+
 # Repository Structure
 
 ```
